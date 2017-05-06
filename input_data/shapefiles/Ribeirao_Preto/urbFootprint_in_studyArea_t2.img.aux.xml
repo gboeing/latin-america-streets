@@ -1,0 +1,84 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>7.5</HistMax>
+        <BucketCount>8</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|88141|13615|8398|35624|1974|571637|1582</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>1</F>
+        <F>88141</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>2</F>
+        <F>13615</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>3</F>
+        <F>8398</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>4</F>
+        <F>35624</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>5</F>
+        <F>1974</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>6</F>
+        <F>571637</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>7</F>
+        <F>1582</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="SourceBandIndex">0</MDI>
+      <MDI key="STATISTICS_COVARIANCES">2.991664904958714</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">7</MDI>
+      <MDI key="STATISTICS_MEAN">5.1788865294166</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">1.7296429992801</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
